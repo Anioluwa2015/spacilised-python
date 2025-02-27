@@ -1,4 +1,3 @@
-import keyword
-
-print("the keywords are \n")
-print(keyword.kwlist)
+a="jan,feb,march,april,may,june,july,aug,seb,oct,nov,dec"
+print("the months are")
+print(a)

@@ -1,0 +1,12 @@
+a=36
+b=6
+print("36-6 = ",a-b)
+6 = 36
+2 = 6                           
+print("36 divided by 6 = ",6/2)
+red=36
+blue=6
+print("36 x 6 = ",red*blue)
+hi=36
+hello=6
+print("36 + 6 = ",hi+hello)
