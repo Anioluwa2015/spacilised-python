@@ -1,6 +1,0 @@
-tuple1 = ("S" , "H" ,"A" , "Z", "A")
-print(len(tuple1))
-print(tuple1[-2])
-print(tuple1[0:3])
-tuples = ("E" , "M" , "M" , "A")
-print(tuple1 + tuples)

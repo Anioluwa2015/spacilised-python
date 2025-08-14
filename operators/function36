@@ -1,5 +1,0 @@
-def greet(name):
-    return name
-greet("Emma")
-greet("Hamna")
-greet("Shaza")
