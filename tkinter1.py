@@ -8,7 +8,7 @@ window = Tk()
 
 # Set the window Title and Geometry
 
-window.title('Demo Window')
+window.title('Text editer')
 
 window.geometry("500x500")
 
